@@ -1,0 +1,50 @@
+7
+102210029
+Hoang Le Anh Binh
+21TCLC_Nhat1
+8.5
+8.5
+8.5
+8.5
+102210032
+Nguyen Thi Thu Ha
+21TCLC_Nhat1
+9
+9
+9
+9
+102210036
+Chau Diem Hoang
+21TCLC_Nhat1
+10
+10
+10
+10
+102210037
+Doan Thi Phuoc Huyen
+21TCLC_Nhat1
+10
+10
+10
+10
+102210350
+Phan Thi Thanh Nhan
+21TCLC_Nhat1
+6
+7
+8
+7
+102210046
+Huynh Thi Hoang Thu
+21TCLC_Nhat1
+2
+3
+4
+3
+102210049
+Nguyen Pham Nhat Vy
+21TCLC_Nhat1
+6
+2
+8
+5.33333
